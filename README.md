@@ -1,4 +1,9 @@
 # ML4DS
+
+<a target="_blank" href="https://colab.research.google.com/github/Rchatru/ML4DS/blob/master/assignment_F.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 **IPB Course Competition Machine Learning for Data Science**
 
 *Erasmus+ Blended Intensive Programmes:*
