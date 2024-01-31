@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Weights & Biases
-.wandb/
+wandb/
