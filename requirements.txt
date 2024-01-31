@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+category_encoders
+wandb
+shap
+tsfresh
+pyts
+sktime[all_extras]
+evalml
+featuretools
+imbalanced-learn
+pyarrow
