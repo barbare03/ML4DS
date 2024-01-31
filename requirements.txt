@@ -10,7 +10,6 @@ shap
 tsfresh
 pyts
 sktime[all_extras]
-evalml
 featuretools
 imbalanced-learn
 pyarrow
