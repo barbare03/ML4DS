@@ -1,0 +1,29 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version" : "3.12",
+      "installJupyterlab" : true
+    },
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "pip3 install --user -r requirements.txt",
+
+  // Configure tool-specific properties.
+  "customizations": {
+    // Configure properties specific to VS Code.
+    "vscode": {
+      // Add the IDs of extensions you want installed when the container is created.
+      "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "github.copilot",
+        "eamodio.gitlens",
+        "davidanson.vscode-markdownlint",
+        "gruntfuggly.todo-tree",
+        "ms-toolsai.jupyter"
+        
+      ]
+    }
+  }
+}
