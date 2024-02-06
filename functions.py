@@ -395,7 +395,7 @@ def generate_synthetic_samples(df, minority_class, n_samples):
     
     # Calculate the mean and standard deviation of the minority class
     mean = df_minority.mean()
-    std = df_minority.std()/6
+    std = df_minority.std()/5
 
     # Generate synthetic samples
     synthetic_samples = []
