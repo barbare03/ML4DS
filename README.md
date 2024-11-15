@@ -5,6 +5,8 @@
 </a>
 
 **IPB Course Competition Machine Learning for Data Science**
+This was a collaborative project involving participants from multiple institutions across Europe.
+*Forked from Rchatru/ML4DS as part of a collaborative project.*
 
 *Erasmus+ Blended Intensive Programmes:*
 
